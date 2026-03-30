@@ -83,12 +83,14 @@ class HafiyyanDwikaArya:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=iostream-code&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" />
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iostream-code&theme=tokyonight" />
 <img width="49%" src="https://streak-stats.demolab.com?user=iostream-code&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iostream-code&layout=donut&theme=tokyonight&hide_border=true&langs_count=8" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=iostream-code&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iostream-code&theme=tokyonight" />
+<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iostream-code&theme=tokyonight" />
 
 </div>
 
