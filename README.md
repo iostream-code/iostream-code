@@ -16,15 +16,11 @@
 
 ## 🧑‍💻 Tentang Saya
 
----
-
 <div align="center">
  
 ![snake gif](https://github.com/iostream-code/iostream-code/blob/output/github-contribution-grid-snake-dark.svg)
  
 </div>
-
----
 
 ```python
 class HafiyyanDwikaArya:
