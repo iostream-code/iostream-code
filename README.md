@@ -91,11 +91,11 @@ class HafiyyanDwikaArya:
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iostream-code&theme=tokyonight" />
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iostream-code&theme=tokyonight" />
 
 <br/>
 
-<img width="100%" src="https://streak-stats.demolab.com?user=iostream-code&theme=tokyonight&hide_border=true" />
+<img width="96%" src="https://streak-stats.demolab.com?user=iostream-code&theme=tokyonight&hide_border=true" />
 
 <br/>
 
