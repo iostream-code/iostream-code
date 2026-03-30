@@ -125,11 +125,11 @@ class HafiyyanDwikaArya:
 
 ---
 
-## 🏆 GitHub Trophies
-
+## 🐍 Contribution Snake
+ 
 <div align="center">
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=iostream-code&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/iostream-code)
+![snake gif](https://github.com/iostream-code/iostream-code/blob/output/github-contribution-grid-snake-dark.svg)
  
 </div>
 
