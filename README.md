@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Halo%2C+Selamat+Datang+di+Profil+Saya!;💻+Full+Stack+Web+Developer;🐘+Laravel+%7C+⚛️+React.js+%7C+🐍+Django;📍+Surabaya%2C+Jawa+Timur%2C+Indonesia)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6366F1&center=true&vCenter=true&width=700&lines=👋+Halo%2C+Welcome+to+My+Profile!;💻+Full+Stack+Web+Developer;🐘+Laravel+%7C+⚛️+React.js+%7C+🐍+Django;📍+Surabaya%2C+Jawa+Timur%2C+Indonesia)](https://git.io/typing-svg)
 
 </div>
 
@@ -128,9 +128,9 @@ class HafiyyanDwikaArya:
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=iostream-code&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/iostream-code)
-
+ 
+[![trophy](https://github-profile-trophy.vercel.app/?username=iostream-code&theme=tokyonight&no-frame=true&row=2&column=4&margin-w=15&margin-h=15)](https://github.com/iostream-code)
+ 
 </div>
 
 ---
