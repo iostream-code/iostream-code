@@ -16,6 +16,16 @@
 
 ## 🧑‍💻 Tentang Saya
 
+---
+
+<div align="center">
+ 
+![snake gif](https://github.com/iostream-code/iostream-code/blob/output/github-contribution-grid-snake-dark.svg)
+ 
+</div>
+
+---
+
 ```python
 class HafiyyanDwikaArya:
     name       = "Hafiyyan Dwika Arya"
@@ -121,16 +131,6 @@ class HafiyyanDwikaArya:
 
 [![Hafiyyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iostream-code&theme=tokyo-night&hide_border=true&area=true)](https://github.com/iostream-code)
 
-</div>
-
----
-
-## 🐍 Contribution Snake
- 
-<div align="center">
- 
-![snake gif](https://github.com/iostream-code/iostream-code/blob/output/github-contribution-grid-snake-dark.svg)
- 
 </div>
 
 ---
