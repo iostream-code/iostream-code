@@ -16,12 +16,6 @@
 
 ## 🧑‍💻 Tentang Saya
 
-<div align="center">
- 
-![snake gif](https://github.com/iostream-code/iostream-code/blob/output/github-contribution-grid-snake-dark.svg)
- 
-</div>
-
 ```python
 class HafiyyanDwikaArya:
     name       = "Hafiyyan Dwika Arya"
@@ -86,6 +80,14 @@ class HafiyyanDwikaArya:
 ---
 
 ## 📊 GitHub Stats
+
+<div align="center">
+ 
+![snake gif](https://github.com/iostream-code/iostream-code/blob/output/github-contribution-grid-snake-dark.svg)
+ 
+</div>
+
+<br/><br/>
 
 <div align="center">
 
