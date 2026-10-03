@@ -26,12 +26,12 @@ class HafiyyanDwikaArya:
     role       = "Full Stack Web Developer"
 
     skills = {
-        "languages"  : ["PHP", "JavaScript", "Python"],
-        "backend"    : ["Laravel", "Django", "REST API"],
-        "frontend"   : ["React.js", "HTML", "CSS", "Tailwind CSS"],
+        "languages"  : ["PHP", "JavaScript", "TypeScript", "Python"],
+        "backend"    : ["Laravel", "Django", "Slim", "REST API"],
+        "frontend"   : ["React.js", "Next.js", "jQuery", "HTML", "CSS", "Tailwind CSS"],
         "database"   : ["PostgreSQL", "MySQL", "Firebase Firestore"],
         "mobile"     : ["Apache Cordova"],
-        "tools"      : ["Git", "Docker", "Postman", "VS Code"],
+        "tools"      : ["Git", "Docker", "Vite", "Postman", "VS Code"],
     }
 
     leadership = ["Vice President @ University", "President @ University"]
@@ -50,15 +50,19 @@ class HafiyyanDwikaArya:
 ### 💬 Languages
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🔧 Backend
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![DRF](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![Slim](https://img.shields.io/badge/Slim_PHP-719E40?style=for-the-badge&logo=php&logoColor=white)
 
 ### ⚛️ Frontend
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -70,6 +74,7 @@ class HafiyyanDwikaArya:
 
 ### 📱 Mobile & Tools
 ![Cordova](https://img.shields.io/badge/Apache_Cordova-E8E8E8?style=for-the-badge&logo=apache-cordova&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -114,6 +119,9 @@ class HafiyyanDwikaArya:
 | Project | Deskripsi | Tech |
 |:-------:|:---------:|:----:|
 | [🛒 **SmartPOS**](https://github.com/iostream-code/umkm-pos-app) | Sistem Point of Sale modern multi-stack | Laravel · React · Django · PostgreSQL |
+| [📸 **e-Presensi**](https://github.com/iostream-code/e-presensi-app) | Presensi swafoto + validasi radius lokasi untuk instansi (APK Android) | Slim PHP · jQuery · Vite · MySQL · Cordova |
+| [📿 **Risalah**](https://github.com/iostream-code/risalah-app) | Al-Quran dengan murottal 6 qari + 9 kitab hadits, tanpa backend (APK Android) | jQuery · Vite · Tailwind · Cordova |
+| [🌐 **Personal Portfolio**](https://github.com/iostream-code/personal-portfolio) | Website portofolio dwibahasa (EN/ID) di Vercel | Next.js · TypeScript · Tailwind |
 | [🛍️ **Laravel E-Commerce**](https://github.com/iostream-code/laravel-9-ecommerce) | Platform e-commerce lengkap berbasis Laravel 9 | Laravel · MySQL · Bootstrap |
 | [🔗 **React + Laravel API**](https://github.com/iostream-code/react-laravel-10-api) | SPA dengan React terintegrasi REST API Laravel 10 | React · Laravel · REST API |
 | [🏪 **My UMKM**](https://github.com/iostream-code/my-umkm) | Aplikasi manajemen bisnis UMKM | Laravel · MySQL |
