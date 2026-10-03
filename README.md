@@ -22,7 +22,7 @@ class HafiyyanDwikaArya:
     username   = "iostream-code"
     location   = "Surabaya, Jawa Timur, Indonesia 🇮🇩"
     education  = "S.Tr.Kom — Informatics Engineering (Bachelor of Applied Science)"
-    experience = "2+ years of professional IT experience"
+    experience = "3+ years of professional IT experience"
     role       = "Full Stack Web Developer"
 
     skills = {
@@ -126,16 +126,6 @@ class HafiyyanDwikaArya:
 | [🔗 **React + Laravel API**](https://github.com/iostream-code/react-laravel-10-api) | SPA dengan React terintegrasi REST API Laravel 10 | React · Laravel · REST API |
 | [🏪 **My UMKM**](https://github.com/iostream-code/my-umkm) | Aplikasi manajemen bisnis UMKM | Laravel · MySQL |
 | [🏥 **Posyandu App**](https://github.com/iostream-code/posyandu-app) | Sistem informasi layanan posyandu | Laravel · MySQL |
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Hafiyyan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iostream-code&theme=tokyo-night&hide_border=true&area=true)](https://github.com/iostream-code)
 
 </div>
 
