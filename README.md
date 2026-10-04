@@ -129,6 +129,18 @@ class HafiyyanDwikaArya:
 
 </div>
 
+### ✨ Sorotan: Chatbot ber-otak n8n
+
+<div align="center">
+
+<img src="assets/chatbot-n8n.png" alt="Widget chatbot React dengan Redis & n8n" width="760" />
+
+<br/>
+
+<sub>Widget chat melayang di SPA React — riwayat percakapan di <b>Redis</b>, otak jawaban via <b>webhook n8n</b>, dengan bot fallback bawaan. Bagian dari <a href="https://github.com/iostream-code/react-laravel-api">react-laravel-api</a>.</sub>
+
+</div>
+
 ---
 
 ## 📬 Hubungi Saya
