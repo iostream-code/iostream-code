@@ -123,7 +123,7 @@ class HafiyyanDwikaArya:
 | [📿 **Risalah**](https://github.com/iostream-code/risalah-app) | Al-Quran dengan murottal 6 qari + 9 kitab hadits, tanpa backend (APK Android) | jQuery · Vite · Tailwind · Cordova |
 | [🌐 **Personal Portfolio**](https://github.com/iostream-code/personal-portfolio) | Website portofolio dwibahasa (EN/ID) di Vercel | Next.js · TypeScript · Tailwind |
 | [🛍️ **Laravel E-Commerce**](https://github.com/iostream-code/laravel-ecommerce) |  Toko online Laravel 12: storefront, Midtrans, dashboard admin | Laravel · MySQL · Bootstrap |
-| [🔗 **React + Laravel API**](https://github.com/iostream-code/react-laravel-api) | SPA React terintegrasi REST API Laravel 12 | React · Laravel · REST API |
+| [🔗 **React + Laravel API**](https://github.com/iostream-code/react-laravel-api) |  SPA React + API Laravel 12 dengan Redis & chatbot n8n | React · Laravel · Redis · n8n |
 | [🏪 **My UMKM**](https://github.com/iostream-code/my-umkm) | Marketplace multi-toko ramah UMKM: buka toko 1 menit, checkout per toko | Laravel · MySQL |
 | [🏥 **Posyandu App**](https://github.com/iostream-code/posyandu-app) | Sistem informasi layanan posyandu | Laravel · MySQL |
 
