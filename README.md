@@ -125,7 +125,7 @@ class HafiyyanDwikaArya:
 | [🛍️ **Laravel E-Commerce**](https://github.com/iostream-code/laravel-ecommerce) |  Toko online Laravel 12: storefront, Midtrans, dashboard admin | Laravel · MySQL · Bootstrap |
 | [🔗 **React + Laravel API**](https://github.com/iostream-code/react-laravel-api) |  SPA React + API Laravel 12 dengan Redis & chatbot n8n | React · Laravel · Redis · n8n |
 | [🏪 **My UMKM**](https://github.com/iostream-code/my-umkm) | Marketplace multi-toko ramah UMKM: buka toko 1 menit, checkout per toko | Laravel · MySQL |
-| [🏥 **Posyandu App**](https://github.com/iostream-code/posyandu-app) | Sistem informasi layanan posyandu | Laravel · MySQL |
+| [🏥 **Posyandu App**](https://github.com/iostream-code/posyandu-app) | Sistem informasi posyandu + chatbot asisten n8n | Laravel · MySQL |
 
 </div>
 
