@@ -122,7 +122,7 @@ class HafiyyanDwikaArya:
 | [📸 **e-Presensi**](https://github.com/iostream-code/e-presensi-app) | Presensi swafoto + validasi radius lokasi untuk instansi (APK Android) | Slim PHP · jQuery · Vite · MySQL · Cordova |
 | [📿 **Risalah**](https://github.com/iostream-code/risalah-app) | Al-Quran dengan murottal 6 qari + 9 kitab hadits, tanpa backend (APK Android) | jQuery · Vite · Tailwind · Cordova |
 | [🌐 **Personal Portfolio**](https://github.com/iostream-code/personal-portfolio) | Website portofolio dwibahasa (EN/ID) di Vercel | Next.js · TypeScript · Tailwind |
-| [🛍️ **Laravel E-Commerce**](https://github.com/iostream-code/laravel-ecommerce) | Platform e-commerce lengkap berbasis Laravel 12 | Laravel · MySQL · Bootstrap |
+| [🛍️ **Laravel E-Commerce**](https://github.com/iostream-code/laravel-ecommerce) |  Toko online Laravel 12: storefront, Midtrans, dashboard admin | Laravel · MySQL · Bootstrap |
 | [🔗 **React + Laravel API**](https://github.com/iostream-code/react-laravel-api) | SPA React terintegrasi REST API Laravel 12 | React · Laravel · REST API |
 | [🏪 **My UMKM**](https://github.com/iostream-code/my-umkm) | Aplikasi manajemen bisnis UMKM | Laravel · MySQL |
 | [🏥 **Posyandu App**](https://github.com/iostream-code/posyandu-app) | Sistem informasi layanan posyandu | Laravel · MySQL |
